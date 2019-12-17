@@ -131,7 +131,7 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 
 | Monitor ON | Monitor OFF |
 |:-----------------------------:|:---------------------:|
-| ![](Assets/Images/as1.jpeg) | ![](Assets/Images/asm2.jpg) |
+| ![](Assets/Images/asm1.jpeg) | ![](Assets/Images/asm2.jpg) |
 
 ### Installation Instructions: Software
 
