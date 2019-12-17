@@ -74,14 +74,16 @@ The mirror makes use of [Rasbian](https://www.raspberrypi.org/downloads/raspbian
 
 #### The mirror-frame
 
-**Step 1: Prep the Timber**
+**Step 1: Prep the Timber**  
+
 | Preping the Timber | 
 |:-----------------------------:|
 | ![](Assets/Images/asm6.jpg) |
 
  Using 80grit paper I ran each length over the belt until I was left with a flat surface. Once I was finished sanding them, I used an old paint scraper as a cheapo cabinet scraper. It worked wonderfully, you just make short, repetitive scraping motions towards you, and watch the grain completely flatten out and become almost glass smooth.
 
-**Step 2: Make the Cuts**
+**Step 2: Make the Cuts**  
+
 | Cutting the Timber | 
 |:-----------------------------:|
 | ![](Assets/Images/asm8.jpg) |
@@ -94,14 +96,16 @@ Keep track of what side of the jig you make your cuts on. If I cut one length on
 
 Once they were cut, I ran them through the table saw and cut out a rebate on all 4 pieces for the MDF backing board and plexiglass to sit in.
 
-**Step 4: Create 2 Backplates**
+**Step 4: Create 2 Backplates**  
+
 | Backplate with Flash | Backplate without Flash |
 |:-----------------------------:|:---------------------:|
 | ![](Assets/Images/asm3.jpg) | ![](Assets/Images/asm5.jpg) |
 
 The backplate is naturally a MDF-plate with the same dimensions of the mirror. In one of the backplates you have to create hole wich would fit the 15' monitor. Also put a black sticker on this backplate to prevent light being absorbed when we put it against the mirror.
 
-**Step 5: Glue Up & Nail down**
+**Step 5: Glue Up & Nail down**  
+
 | Final Assembly | 
 |:-----------------------------:|
 | ![](Assets/Images/asm2.jpg) |
@@ -117,12 +121,13 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 - Step 6: Connect the 5v voltage supply from the Pi to the controller
 - Step 7: Create breadbord circuit with connectiont to Pi inputs
 - Step 8: Connect the Power Supply to the Pi
-- Step 9: Put the full circuit in the frame and stick it down with double-sided tape
+- Step 9: Put the full circuit in the frame and stick it down with double-sided tape  
+
 | Final Circuit Assembly (Nog foto invoegen)| 
 |:-----------------------------:|
 | ![](Assets/Images/asm7.jpg) |
 
-#### Final product
+#### Final product  
 
 | Monitor ON | Monitor OFF |
 |:-----------------------------:|:---------------------:|
