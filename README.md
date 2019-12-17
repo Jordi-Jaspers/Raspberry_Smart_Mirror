@@ -8,7 +8,7 @@ Simon Aerts [[Github](https://github.com/Jordi-Jaspers "Github Page"), [Linkedin
 **Date of initial commit:** 
 17/12/2019
 
-**Description:**
+**Description:** 
 This is an Embedded Systems & Networks Project For a course at the UHasselt/KULeuven University. The objective is to create a DIY smart mirror with an IoT implentation. Powered by a Rasberry pi so we could communicate with the internet. This allows us to display certain information like news, agenda, weather, etc.
 
 Networks part of the course is that we implemented physical buttons that are interchangeable with capacitive buttons to control smart object inside your house or connected to the network.
