@@ -1,14 +1,14 @@
 # Raspberry Smart Mirror
 
-## Biography  
-**Authors:**
+## Biography
+**Authors:**  
 Jordi Jaspers [[Github](https://github.com/Jordi-Jaspers "Github Page"), [Linkedin](https://www.linkedin.com/in/jordi-jaspers/ "Linkedin Page")] 
 Simon Aerts [[Github](https://github.com/Jordi-Jaspers "Github Page"), [Linkedin](https://www.linkedin.com/in/jordi-jaspers/ "Linkedin Page")]
   
-**Date of initial commit:** 
+**Date of initial commit:**  
 17/12/2019
 
-**Description:**
+**Description:**  
 This is an Embedded Systems & Networks Project For a course at the UHasselt/KULeuven University. The objective is to create a DIY smart mirror with an IoT implentation. Powered by a Rasberry pi so we could communicate with the internet. This allows us to display certain information like news, agenda, weather, etc.
 
 Networks part of the course is that we implemented physical buttons that are interchangeable with capacitive buttons to control smart object inside your house or connected to the network.
@@ -72,7 +72,7 @@ The mirror makes use of [Rasbian](https://www.raspberrypi.org/downloads/raspbian
 * Wires
 * HDMI-cable
 
-#### The mirror-frame
+### The mirror-frame
 
 **Step 1: Prep the Timber**  
 
@@ -112,7 +112,7 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 
 **Step 6: Bore a hole into the frame to lead the Power supply cable**
 
-#### The electrical circuit
+### The electrical circuit
 
 - Step 1: Sketch the circuit
 - Step 2: Connect the monitor to the controller
@@ -123,15 +123,15 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 - Step 8: Connect the Power Supply to the Pi
 - Step 9: Put the full circuit in the frame and stick it down with double-sided tape  
 
-| Final Circuit Assembly (Nog foto invoegen)| 
+| Final Circuit Assembly | 
 |:-----------------------------:|
-| ![](Assets/Images/asm7.jpg) |
+| ![](Assets/Images/asm11.jpg) |
 
-#### Final product  
+### Final product  
 
 | Monitor ON | Monitor OFF |
 |:-----------------------------:|:---------------------:|
-| ![](Assets/Images/asm1.jpeg) | ![](Assets/Images/asm2.jpg) |
+| ![](Assets/Images/asm9.jpeg) | ![](Assets/Images/asm10.jpg) |
 
 ### Installation Instructions: Software
 
