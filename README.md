@@ -104,13 +104,17 @@ Once they were cut, I ran them through the table saw and cut out a rebate on all
 
 The backplate is naturally a MDF-plate with the same dimensions of the mirror. In one of the backplates you have to create hole wich would fit the 15' monitor. Also put a black sticker on this backplate to prevent light being absorbed when we put it against the mirror.
 
-**Step 5: Glue Up & Nail down**  
+**Step 5: Bore a hole into the frame to lead the Power supply cable**
+
+| Hole for the power-supply | 
+|:-----------------------------:|
+| ![](Assets/Images/asm7.jpg) |
+
+**Step 6: Glue Up & Nail down**  
 
 | Final Assembly | 
 |:-----------------------------:|
 | ![](Assets/Images/asm2.jpg) |
-
-**Step 6: Bore a hole into the frame to lead the Power supply cable**
 
 ### The electrical circuit
 
