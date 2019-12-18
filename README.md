@@ -214,3 +214,4 @@ npm start
 * Inspiration: <https://www.youtube.com/watch?v=aa3VVZA0e5Y>
 * Inspiration: <https://www.youtube.com/watch?v=Qwc2Eq6YXTQ>
 * Foil vs Acryl: <https://www.youtube.com/watch?v=i4jJgWqoEZI>
+* MagicMirror for beginners: <https://forum.magicmirror.builders/topic/8534/head-first-developing-mm-module-for-extreme-beginners?fbclid=IwAR39nDT8e2e_7lqDXxdv3KaJ43RucJepVj3aGCYT8TzO92VoKa3hRJd3AEI>
