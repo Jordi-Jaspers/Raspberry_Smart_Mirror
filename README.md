@@ -108,7 +108,7 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 
 | Hole for the power-supply | 
 |:-----------------------------:|
-| ![](Assets/Images/asm7.jpg) |
+| ![](Assets/Images/asm7.jpeg) |
 
 **Step 6: Glue Up & Nail down**  
 
@@ -129,13 +129,13 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 
 | Final Circuit Assembly | 
 |:-----------------------------:|
-| ![](Assets/Images/asm11.jpg) |
+| ![](Assets/Images/asm11.jpeg) |
 
 ### Final product  
 
 | Monitor ON | Monitor OFF |
 |:-----------------------------:|:---------------------:|
-| ![](Assets/Images/asm9.jpeg) | ![](Assets/Images/asm10.jpg) |
+| ![](Assets/Images/asm9.jpeg) | ![](Assets/Images/asm10.jpeg) |
 
 ### Installation Instructions: Software
 
