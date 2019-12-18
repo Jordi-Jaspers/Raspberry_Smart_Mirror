@@ -199,9 +199,6 @@ Installing the actual dependencies is done with
 npm install /dependencies
 ```
 
-#### Extra software???
-nog extra installaties moeten hier.....
-
 ### Running the smart-mirror application
 
 To run the application run the following command in this folder
