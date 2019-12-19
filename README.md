@@ -160,7 +160,6 @@ Navigate to the folder for the repository and go into the "code" folder.
 
 ```
 cd Smart-Mirror
-cd code
 ```
 
 #### Install your dependencies
@@ -196,7 +195,9 @@ npm -v
 Installing the actual dependencies is done with
 
 ```
-npm install /dependencies
+npm install /code/dependencies
+cd /MagicMirror-master
+npm install
 ```
 
 ### Running the smart-mirror application
