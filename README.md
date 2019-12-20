@@ -96,7 +96,7 @@ Keep track of what side of the jig you make your cuts on. If I cut one length on
 
 Once they were cut, I ran them through the table saw and cut out a rebate on all 4 pieces for the MDF backing board and plexiglass to sit in.
 
-**Step 4: Create 2 Backplates**  
+**Step 3: Create 2 Backplates**  
 
 | Backplate with Flash | Backplate without Flash |
 |:-----------------------------:|:---------------------:|
@@ -104,13 +104,13 @@ Once they were cut, I ran them through the table saw and cut out a rebate on all
 
 The backplate is naturally a MDF-plate with the same dimensions of the mirror. In one of the backplates you have to create hole wich would fit the 15' monitor. Also put a black sticker on this backplate to prevent light being absorbed when we put it against the mirror.
 
-**Step 5: Bore a hole into the frame to lead the Power supply cable**
+**Step 4: Bore a hole into the frame to lead the Power supply cable**
 
 | Hole for the power-supply | 
 |:-----------------------------:|
 | ![](Assets/Images/asm7.jpeg) |
 
-**Step 6: Glue Up & Nail down**  
+**Step 5: Glue Up & Nail down**  
 
 | Final Assembly | 
 |:-----------------------------:|
@@ -123,7 +123,7 @@ The backplate is naturally a MDF-plate with the same dimensions of the mirror. I
 - Step 4: Connect the controller with a HDMI to Raspberry
 - Step 5: Look up the pin configuration of the Pi
 - Step 6: Connect the 5v voltage supply from the Pi to the controller
-- Step 7: Create breadbord circuit with connectiont to Pi inputs
+- Step 7: Create breadbord circuit with connection to Pi inputs
 - Step 8: Connect the Power Supply to the Pi
 - Step 9: Put the full circuit in the frame and stick it down with double-sided tape  
 
