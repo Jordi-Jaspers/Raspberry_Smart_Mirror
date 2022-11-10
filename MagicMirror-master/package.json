@@ -49,7 +49,7 @@
     "jshint": "^2.10.2",
     "mocha": "^4.1.0",
     "mocha-each": "^1.1.0",
-    "mocha-logger": "^1.0.6",
+    "mocha-logger": "^1.0.8",
     "spectron": "^3.8.0",
     "stylelint": "latest",
     "stylelint-config-standard": "latest",
